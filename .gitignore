@@ -1,0 +1,19 @@
+.env*
+!.env.example
+.envrc
+*.pem
+*.key
+aws-credentials*
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+
+# Downloaded passages, upload state, and runs.
+bright/data/
+
+*.log
+.DS_Store
+.idea/
+.vscode/

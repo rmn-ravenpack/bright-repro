@@ -1,0 +1,8 @@
+boto3==1.43.78
+botocore==1.43.78
+datasets==5.0.1
+huggingface_hub==1.27.0
+langdetect==1.0.9
+pyarrow==25.0.1
+python-dotenv==1.2.2
+requests==2.34.2

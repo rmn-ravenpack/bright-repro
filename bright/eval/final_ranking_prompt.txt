@@ -1,0 +1,9 @@
+Another agent retrieved these passages for the user's question. Rank the ten
+that best answer it, the most relevant first.
+
+Read every passage. The draft ranking from retrieval is only a suggestion: the
+best passage is often outside it. A passage that explains the concept behind
+the question, or part of the answer, still belongs in the list. Fill all ten
+slots when ten passages are at least partly relevant.
+
+Use only document ids shown in this bundle. Call submit_ranking exactly once.
